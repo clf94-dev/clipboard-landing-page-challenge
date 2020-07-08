@@ -1,0 +1,82 @@
+body{
+  align-items: center;
+}
+
+.container-fluid{
+    text-align: center;
+}
+#top{
+  background-image: url("images/bg-header-desktop.png");
+
+  padding: 7% 15%;
+}
+
+.btn{
+
+}
+.downMac{
+  background-color: hsl(233, 100%, 69%);
+  color: white;
+border-radius: 25px;
+
+}
+.downiOS{
+  background-color:  hsl(171, 66%, 44%);
+border-radius: 25px;
+
+  color: white;
+}
+
+.colbutton{
+  padding: 5% 10%;
+}
+.subtitle{
+  line-height: 2.5rem;
+  color: hsl(201, 11%, 66%);
+
+}
+.subtitle-features{
+    padding: 0 15% 3% 15%;
+}
+.col-features{
+padding: 1% 5% 3% 5%;
+}
+.title{
+padding:1% 0 2% 0 ;
+}
+h1{
+padding:5% 0 2% 0 ;
+}
+.computerIm{
+width: 100%;
+}
+.devicesIm{
+  width: 100%;
+}
+.rowFeatures{
+  margin: 20px 0 20px 0;
+}
+.blacklistIm{
+  padding-bottom:  20px;
+}
+.rowLogos{
+margin: 100px 30px;
+}
+.logos{
+  padding: 20px 10px;
+}
+#companies{
+  align-items: center;
+}
+#bottom{
+  padding: 7% 15%;
+  align-items: center;
+  text-align: center;
+}
+#callToAction{
+  padding: 7% 15%;
+  background-color: hsl(201, 11%, 66%);
+  text-align: center;
+
+
+}
